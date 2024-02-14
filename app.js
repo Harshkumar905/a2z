@@ -3,7 +3,8 @@ import React from 'react'
 import { WebView } from 'react-native-webview';
 const App = () => {
   return (
-    <WebView source={{ uri: 'https://www.bujhansi.ac.in/' }} style={{ flex: 1 }} />
+    // <WebView source={{ uri: 'https://www.bujhansi.ac.in/' }} style={{ flex: 1 }} />
+    <Text>hello</Text>
   )
 }
 
